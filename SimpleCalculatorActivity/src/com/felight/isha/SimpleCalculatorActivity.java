@@ -41,7 +41,7 @@ public class SimpleCalculatorActivity extends Activity {
 			break;
 		case R.id.btnMod:
 			tvResult.setText((num1 % num2) + "");
-			break;
+			break;/*mamu*/
 			
 		} 
 	}
